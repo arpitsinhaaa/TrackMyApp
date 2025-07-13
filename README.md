@@ -5,10 +5,10 @@ NOTE: WHEN YOU EXTRACT THE .ZIP FILE, IT WOULDN’T CONTAIN ANY .TXT FILE, BUT A
  <H1>Features:</H1>
 Creates a file named “app\_usage\_log.txt”
 
-Tracks which window is currently maximized and for how long, and registers it to the .txt file
+Tracks which window is currently maximized and for how long, and registers it to the .txt file.
 
 <H1>Installation:</H1>
-Download the latest .zip release
+Go to the "Releases" Section in the middle-right and download the latest .zip release
 
 Extract the files inside a new folder
 
